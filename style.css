@@ -1,0 +1,85 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@100..900&display=swap');
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    text-decoration: none;
+}
+
+body {
+    background-color: #0C0A40;
+    color: white;
+    font-family: "Inter", sans-serif;
+}
+
+.sec {
+    background-color: #171556;
+    width: 823px;
+    border-radius: 5px;
+    margin: auto;
+}
+
+#sec-outroseventos {
+    margin-top: 30px;
+    height: 232px;
+}
+
+.sec-outroseventos-h1 {
+    padding: 30px 0px 10px 30px;
+}
+
+.sec-outroseventos-div {
+    display: flex;
+    margin: 30px;
+    gap: 110px;
+}
+
+.sec-outroseventos-div-item {
+    display: flex;
+    font-size: 14px;
+}
+
+#sec-sugestoes {
+    margin-top: 30px;
+}
+
+.sec-sugestoes-h1 {
+    padding: 30px 0px 30px 30px;
+}
+
+.sec-sugestoes-div {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.sec-sugestoes-div-item {
+    width: 237px;
+    height: 146px;
+    background-color: white;
+    border-radius: 5px;
+    margin: 10px;
+}
+
+.sec-sugestoes-btn {
+    padding: 15px;
+    color: white;
+    border: none;
+    width: 150px;
+    border-radius: 5px;
+    background-color: #F20574;
+    justify-content: center;
+    margin: 30px 0px;
+    cursor: pointer;
+    font-weight: bold;
+}
+
+#sec-maisvistos {
+    margin-top: 30px;
+    height: 303px;
+}
+
+.sec-maisvistos-h1 {
+    padding: 30px 0px 30px 30px;
+}
