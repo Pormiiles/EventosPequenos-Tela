@@ -38,6 +38,8 @@ body {
 .sec-outroseventos-div-item {
     display: flex;
     font-size: 14px;
+    align-items: center;
+    gap: 2px;
 }
 
 #sec-sugestoes {
@@ -60,6 +62,56 @@ body {
     background-color: white;
     border-radius: 5px;
     margin: 10px;
+}
+
+#img1 {
+    background-image: url(imagens/FESTA-DAS-BARRACAS.-FOTO-GOVERNO-DE-SERGIPE.jpg);
+    background-size: cover;
+}
+
+#img2 {
+    background-image: url(imagens/download.jpg);
+    background-size: cover;
+}
+
+#img3 {
+    background-image: url(imagens/images.jpg);
+    background-size: cover;
+}
+
+#img4 {
+    background-image: url(imagens/images2.jpg);
+    background-size: cover;
+}
+
+
+#img5 {
+    background-image: url(imagens/379-História-do-teatro-no-Brasil-e-no-Mundo.webp);
+    background-size: cover;
+}
+
+
+#img6 {
+    background-image: url(imagens/assets-fotos-775-vinheta-do-carnaval-globeleza-celebra-a-diversidade-e-a-sustentabilidade-13bce6a954ca.webp);
+    background-size: cover;
+}
+
+
+#img7 {
+    background-image: url(imagens/Conheca-12-festas-populares-brasileiras-para-curtir-ao-longo-do-ano-770x500.jpg);
+    background-size: cover;
+}
+
+
+#img8 {
+    background-image: url(imagens/halloween-moderno.webp);
+    background-size: cover;
+}
+
+
+#img9 {
+    background-image: url(imagens/reveillon.webp);
+    background-size: cover;
 }
 
 .sec-sugestoes-btn {
