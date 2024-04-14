@@ -43,6 +43,10 @@ body {
     gap: 2px;
 }
 
+.sec-outroseventos-div-item a {
+    color: inherit;
+}
+
 #sec-sugestoes {
     margin-top: 30px;
 }
