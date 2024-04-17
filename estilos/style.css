@@ -134,9 +134,11 @@ body {
 
 #sec-maisvistos {
     margin-top: 30px;
-    height: 303px;
+    height: 500px;
+    margin-bottom: 30px;
+    padding: 30px;
 }
 
 .sec-maisvistos-h1 {
-    padding: 30px 0px 30px 30px;
+    padding: 0px 0px 30px 0px;
 }
